@@ -6,7 +6,7 @@ export default class Home extends Component {
 		return (
 			<div class={style.home}>
 				<h1>Home</h1>
-				<p>Home component here!</p>
+				<p>Home component here! Testing deploy preview now.</p>
 			</div>
 		);
 	}
